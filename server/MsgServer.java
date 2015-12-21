@@ -1,5 +1,3 @@
-// CS 6421 - Simple Message Board
-// T. Wood
 // Compile with: javac MsgServer
 // Run with:     java MsgServer
 // The server runs on port 5555
